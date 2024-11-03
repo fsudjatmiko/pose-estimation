@@ -9,7 +9,6 @@ Welcome to the Pose Estimation project! This repository contains code and resour
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -54,7 +53,3 @@ python estimate_pose.py --video path/to/your/video.mp4
 ## Contributing
 
 We welcome contributions to the Pose Estimation project! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
