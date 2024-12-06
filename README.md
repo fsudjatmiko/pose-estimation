@@ -27,7 +27,7 @@ To get started with the Pose Estimation project, follow these steps:
 
 1. Clone the repository:
   ```sh
-  git clone https://github.com/fusdjatmiko/pose-estimation.git
+  git clone https://github.com/fsudjatmiko/pose-estimation.git
   ```
 2. Navigate to the project directory:
   ```sh
@@ -38,17 +38,6 @@ To get started with the Pose Estimation project, follow these steps:
   pip install -r requirements.txt
   ```
 
-## Usage
-
-To run the pose estimation on an image, use the following command:
-```sh
-python estimate_pose.py --image path/to/your/image.jpg
-```
-
-For video processing, use:
-```sh
-python estimate_pose.py --video path/to/your/video.mp4
-```
 
 ## Contributing
 
